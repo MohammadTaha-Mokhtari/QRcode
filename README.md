@@ -19,4 +19,8 @@ This project includes three files:
 - OpenCV (`cv2`)  
 - Pyzbar  
 - os (standard library)  
-- pyperclip 
+- pyperclip
+
+
+**Creadted by MohammadTaha Mokhtari.**
+
